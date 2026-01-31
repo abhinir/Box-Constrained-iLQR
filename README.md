@@ -4,11 +4,11 @@
 
 <sup>1</sup>Texas A&M University, College Station, Texas, US
 
-<div align="center">
+
 ---
 ### [Paper (PDF)](wafr2026_paper.pdf) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Code](https://github.com/abhinir/Box-Constrained-iLQR) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Video](#video-demo)
 ---
-</div>
+
 
 ## Abstract
 This paper presents a constrained iterative Linear Quadratic Regulator (iLQR) framework for nonlinear optimal control problems with box constraints on both states and control inputs. We incorporate logarithmic barrier functions into the stage cost to enforce box constraints (upper and lower bounds on variables), yielding a smooth interior-point formulation that integrates seamlessly with the standard iLQR backward–forward pass. The Hessian contributions from the log barriers are positive definite, preserving and enhancing the positive definiteness of
