@@ -28,7 +28,7 @@ examples on constrained nonlinear control problems demonstrate that the proposed
 
 <!-- Paste your YouTube embed code here. Centered for a clean look. -->
 <div align="center">
-  <iframe width="800" height="450" src="https://youtu.be/4PJ0NKPSZlY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe width="800" height="450" src="[https://youtu.be/4PJ0NKPSZlY](https://youtu.be/kRjgkPTZJys)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 ---
