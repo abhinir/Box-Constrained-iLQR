@@ -42,46 +42,47 @@ examples on constrained nonlinear control problems demonstrate that the proposed
 
 <a name="video-demo"></a>
 ## Demo
-
-<div align="center"> 
-<table style="border: none;">
+<div align="center">
+<!-- The 'width: 100%' and 'table-layout: fixed' are the key fixes -->
+<table style="width: 100%; border: none; table-layout: fixed;">
   <!-- ROW 1 -->
   <tr style="border: none;">
-    <td style="padding: 10px; border: none;">
+    <!-- Added 'text-align: center' for a cleaner look -->
+    <td style="padding: 10px; border: none; text-align: center;">
       <iframe width="100%" height="240" src="https://www.youtube.com/embed/kRjgkPTZJys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       <br>
       <em>Pendulum swing-up without any constraints.</em>
     </td>
-    <td style="padding: 10px; border: none;">
+    <td style="padding: 10px; border: none; text-align: center;">
       <iframe width="100%" height="240" src="https://www.youtube.com/embed/GFmePDyHEG4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       <br>
-      <em>Pendulum swing-up with actuation constraints: -1 < u < 1 .</em>
+      <em>Pendulum swing-up with actuation constraints: -1 &lt; u &lt; 1.</em>
     </td>
   </tr>
   <!-- ROW 2 -->
   <tr style="border: none;">
-    <td style="padding: 10px; border: none;">
+    <td style="padding: 10px; border: none; text-align: center;">
       <iframe width="100%" height="240" src="https://www.youtube.com/embed/mD84pGqbik4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       <br>
       <em>Cartpole swing-up without any constraints.</em>
     </td>
-    <td style="padding: 10px; border: none;">
+    <td style="padding: 10px; border: none; text-align: center;">
       <iframe width="100%" height="240" src="https://www.youtube.com/embed/QGBJvQMlQJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       <br>
-      <em>Cart-pole swing-up with state and control constraints (-2 < u < 2 and -0.2 < x_1 < 0.2).</em>
+      <em>Cart-pole swing-up with state and control constraints (-2 &lt; u &lt; 2 and -0.2 &lt; x_1 &lt; 0.2).</em>
     </td>
   </tr>
   <!-- ROW 3 -->
   <tr style="border: none;">
-    <td style="padding: 10px; border: none;">
+    <td style="padding: 10px; border: none; text-align: center;">
       <iframe width="100%" height="240" src="https://www.youtube.com/embed/2Zl8muy1ZYc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       <br>
       <em>Acrobot swing-up without any constraints.</em>
     </td>
-    <td style="padding: 10px; border: none;">
+    <td style="padding: 10px; border: none; text-align: center;">
       <iframe width="100%" height="240" src="https://www.youtube.com/embed/4PJ0NKPSZlY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       <br>
-      <em>Acrobot swing-up with control constraints : -5 < u < 5.</em>
+      <em>Acrobot swing-up with control constraints: -5 &lt; u &lt; 5.</em>
     </td>
   </tr>
 </table>
