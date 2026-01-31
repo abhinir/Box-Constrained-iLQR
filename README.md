@@ -10,7 +10,7 @@
 <h2>
     <a href="wafr2026_paper.pdf">Paper (PDF)</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/abhinir/Box-Constrained-iLQR">Code</a>
+    <a href="https://github.com/abhinir/Box-iLQR">Code</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#video-demo">Video</a>
 </h2>
