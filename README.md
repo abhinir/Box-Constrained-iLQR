@@ -37,7 +37,7 @@ examples on constrained nonlinear control problems demonstrate that the proposed
 If you use our work, please cite our paper:
 
 ```bibtex
-@inproceedings{YOURNAME2026wafr,
+@inproceedings{Abhijeet,
   title   = {Title of Your Paper},
   author  = {Your, Name and Co-author, Name},
   booktitle = {Proceedings of the Workshop on the Algorithmic Foundations of Robotics (WAFR)},
