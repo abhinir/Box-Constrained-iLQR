@@ -37,7 +37,7 @@ examples on constrained nonlinear control problems demonstrate that the proposed
 ## Demo
 
 <div align="center"> 
-<table align="center",style="border: none;">
+<table style="border: none;">
   <!-- ROW 1 -->
   <tr style="border: none;">
     <td style="padding: 10px; border: none;">
