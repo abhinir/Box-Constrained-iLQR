@@ -1,9 +1,8 @@
 # Safe Optimal Control using Log Barrier Constrained iLQR
-### WAFR 2026
 
-**[YOUR NAME]<sup>1</sup>**, **[CO-AUTHOR'S NAME]<sup>2</sup>**, and **[ANOTHER CO-AUTHOR'S NAME]<sup>1</sup>**
+**[Abhijeet]<sup>1</sup>**, and **[Suman Chakravorty]<sup>1</sup>**
 
-<sup>1</sup>[YOUR UNIVERSITY], <sup>2</sup>[CO-AUTHOR'S UNIVERSITY]
+<sup>1</sup>[Texas A&M University, College Station, Texas, US]
 
 ---
 
