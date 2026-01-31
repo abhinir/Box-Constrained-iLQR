@@ -9,7 +9,9 @@
 <sup>1</sup>Texas A&M University, College Station, Texas, U.S.A.
 
 </div>
+
 ---
+
 <div align="center">
 <h2>
     <a href="wafr2026_paper.pdf">Paper (PDF)</a>
@@ -19,6 +21,7 @@
     <a href="#video-demo">Video</a>
 </h2>
 </div>
+
 ---
 
 
