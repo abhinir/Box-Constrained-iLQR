@@ -122,9 +122,11 @@ examples on constrained nonlinear control problems demonstrate that the proposed
 If you use our work, please cite our paper:
 
 ```bibtex
+
 @inproceedings{Abhijeet,
   title   = {Title of Your Paper},
   author  = {Your, Name and Co-author, Name},
   booktitle = {alpha-beta-gamma},
   year    = {2026}
 }
+
