@@ -12,7 +12,7 @@
 
 <div align="center">
 <h2>
-    <a href="wafr2026_paper.pdf">Manuscript (PDF)</a>
+    <a href="Safe_Optimal_Control.pdf">Manuscript (PDF)</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/abhinir/Box-iLQR/tree/main/Code">Code</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
