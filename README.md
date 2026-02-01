@@ -121,7 +121,6 @@ examples on constrained nonlinear control problems demonstrate that the proposed
 ## Citation
 If you use our work, please cite our paper:
 
-```bibtex
 
 @inproceedings{Abhijeet,
   title   = {Title of Your Paper},
