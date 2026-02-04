@@ -123,8 +123,8 @@ If you use our work, please cite our paper:
 
 <pre><code>
 @inproceedings{Abhijeet,
-  title   = {Title of Your Paper},
-  author  = {Your, Name and Co-author, Name},
+  title   = {Safe Optimal Control using Log Barrier Constrained iLQR},
+  author  = {Abhijeet and Suman Chakravorty},
   booktitle = {alpha-beta-gamma},
   year    = {2026}
 }
