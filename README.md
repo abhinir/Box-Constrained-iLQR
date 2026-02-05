@@ -105,7 +105,7 @@ examples on constrained nonlinear control problems demonstrate that the proposed
 <div align="center">
   <img src="cartpole_snapshots.png" width="800" alt="A descriptive caption for my image">
   <br>
-  <em>Fig. 2: Time-lapse visualization of the cart-pole swing-up task, comparing the unconstrained trajectory (light blue) against the trajectory with both state and control constraints (red).</em>
+  <em>Fig. 2: Time-lapse visualization of the cart-pole swing-up task, comparing the unconstrained trajectory (light blue) against the trajectory with both state and control constraints (red). The black dotted lines denote the state constraint (-0.2 &lt; x<sub>1</sub> &lt; 0.2).</em>
 </div>
 
 ---
