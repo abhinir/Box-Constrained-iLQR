@@ -122,10 +122,13 @@ examples on constrained nonlinear control problems demonstrate that the proposed
 If you use our work, please cite our paper:
 
 <pre><code>
-@inproceedings{Abhijeet,
-  title   = {Safe Optimal Control using Log Barrier Constrained iLQR},
-  author  = {Abhijeet and Suman Chakravorty},
-  booktitle = {alpha-beta-gamma},
-  year    = {2026}
+@misc{abhijeet2026boxilqr,
+      title={Safe Optimal Control using Log Barrier Constrained iLQR}, 
+      author={Abhijeet and Suman Chakravorty},
+      year={2026},
+      eprint={2602.05046},
+      archivePrefix={arXiv},
+      primaryClass={math.OC},
+      url={https://arxiv.org/abs/2602.05046}, 
 }
 </code></pre>
