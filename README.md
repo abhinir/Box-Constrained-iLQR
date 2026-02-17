@@ -1,10 +1,10 @@
 <div align="center">
   <h1>Safe Optimal Control using Log Barrier Constrained iLQR</h1>
   <p>
-    <strong>Abhijeet<sup>1</sup></strong>, and <strong>Suman Chakravorty<sup>1</sup></strong>
+    <strong>Abhijeet</strong>, and <strong>Suman Chakravorty</strong>
   </p>
   <p>
-    <sup>1</sup>Texas A&M University, College Station, Texas, U.S.A.
+    Texas A&M University, College Station, Texas, U.S.A.
   </p>
 </div>
 
