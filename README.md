@@ -14,7 +14,7 @@
 <h2>
     <a href="Box_iLQR.pdf">Manuscript (PDF)</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/abhinir/Box-iLQR/tree/main/Code">Matlab</a>
+    <a href="https://github.com/abhinir/Box-iLQR/tree/main/Code/New-Code">Matlab</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/abhinir/Box-iLQR-Python">Python</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
